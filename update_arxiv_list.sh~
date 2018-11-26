@@ -1,0 +1,4 @@
+//anaconda/envs/py35/bin/python 
+git add .
+git commit -m "synced @ $(date)"
+git push

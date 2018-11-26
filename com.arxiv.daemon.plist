@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+
+    <key>Label</key>
+    <string>com.arxiv.daemon.plist</string>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StartInterval</key>
+    <integer>300</integer>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/danial/github/py-grouparticles/stderr.log</string>
+
+    <key>StandardOutPath</key>
+    <string>/Users/danial/github/py-grouparticles/stdout.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+      <key>PATH</key>
+      <string><![CDATA[/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin]]></string>
+    </dict>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/danial/github/py-grouparticles</string>
+
+    <key>ProgramArguments</key>
+    <array>
+      <string>update_arxiv_list.sh</string>
+    </array>
+
+  </dict>
+</plist>
