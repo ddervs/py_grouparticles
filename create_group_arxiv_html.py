@@ -128,4 +128,4 @@ print(html)
 html_filename = "arxiv_group_feed.html" 
 
 with open(html_filename, "w") as writefile:
-    writefile.write(html.encode("utf-8")) 
+    writefile.write(html) 
