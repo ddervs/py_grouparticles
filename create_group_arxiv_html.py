@@ -2,6 +2,9 @@ import urllib.request, urllib.parse, urllib.error
 import feedparser
 import json
 import toolz
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 # Base api query url
 base_url = 'http://export.arxiv.org/api/query?';
@@ -120,7 +123,6 @@ for x in range(num_entries):
 #close the arxiv container div
 html += '</dl>\n</div>\n'
 
-import sys
 print(sys.version)
 print(html)
 
