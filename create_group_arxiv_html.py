@@ -120,6 +120,8 @@ for x in range(num_entries):
 #close the arxiv container div
 html += '</dl>\n</div>\n'
 
+print(html)
+
 ### WRITE FILE
 
 html_filename = "arxiv_group_feed.html" 
