@@ -127,5 +127,5 @@ print(html)
 
 html_filename = "./arxiv_group_feed.html" 
 
-with open(html_filename, "w") as writefile:
+with open(html_filename, "w", encoding="utf-8") as writefile:
     writefile.write(html) 
