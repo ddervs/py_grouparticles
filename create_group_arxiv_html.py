@@ -120,6 +120,8 @@ for x in range(num_entries):
 #close the arxiv container div
 html += '</dl>\n</div>\n'
 
+import sys
+print(sys.version)
 print(html)
 
 ### WRITE FILE
