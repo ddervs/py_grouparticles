@@ -1,0 +1,66 @@
+[
+    {"query": "au:simone+severini",
+     "max_entries": 140,
+     "start": 0
+    },
+    {
+    "query": "au:(toby+AND+cubitt)",
+     "max_entries": 45,
+     "start": 0    
+    },
+    {
+    "query": "au:(nadish+AND+(de+AND+silva))",
+     "max_entries": 12,
+     "start": 0    
+    },
+    {
+    "query": "au:(joshua+AND+lockhart)",
+     "max_entries": 10,
+     "start": 0    
+    },
+     {
+     "query": "au:Rocchetto_A",
+      "max_entries": 10,
+      "start": 0    
+    },
+    {
+    "query": "au:(octavio+AND+zapata)",
+     "max_entries": 5,
+     "start": 0    
+    },
+    {
+    "query": "au:(Marcello+AND+benedetti)",
+     "max_entries": 5,
+     "start": 0    
+    },
+    {
+    "query": "au:(aram+AND+harrow)",
+     "max_entries": 5,
+     "start": 0    
+    },
+    {
+    "query": "au:Bausch_J",
+     "max_entries": 5,
+     "start": 0    
+    },
+    {
+    "query": "au:Perdomo_Ortiz_A",
+     "max_entries": 5,
+     "start": 0    
+    },
+    {
+    "query": "au:Usher_N",
+     "max_entries": 5,
+     "start": 0    
+    },
+    {
+    "query": "au:Dervovic_D",
+     "max_entries": 5,
+     "start": 0    
+    },
+    {
+    "query": "au:Wossnig_L",
+     "max_entries": 5,
+     "start": 0    
+    }
+]
