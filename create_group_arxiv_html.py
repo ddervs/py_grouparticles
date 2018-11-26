@@ -125,7 +125,7 @@ print(html)
 
 ### WRITE FILE
 
-html_filename = "arxiv_group_feed.html" 
+html_filename = "./arxiv_group_feed.html" 
 
 with open(html_filename, "w") as writefile:
     writefile.write(html) 
