@@ -29,7 +29,7 @@
 
     <key>ProgramArguments</key>
     <array>
-      <string>update_arxiv_list.sh</string>
+      <string>./update_arxiv_list.sh</string>
     </array>
 
   </dict>
