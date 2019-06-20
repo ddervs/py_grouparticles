@@ -62,5 +62,10 @@
     "query": "au:Wossnig_L",
      "max_entries": 5,
      "start": 0    
+    },
+    {
+     "query": "au:(Emilio+AND+Onorati)",
+     "max_entries": 5,
+     "start": 0    
     }
 ]
