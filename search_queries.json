@@ -9,6 +9,36 @@
      "start": 0    
     },
     {
+    "query": "au:(daniele+AND+toniolo)",
+     "max_entries": 5,
+     "start": 0    
+    },
+    {
+    "query": "au:(tom+AND+farshi)",
+     "max_entries": 5,
+     "start": 0    
+    },
+    {
+    "query": "au:(harriet+AND+apel)",
+     "max_entries": 5,
+     "start": 0    
+    },
+    {
+    "query": "au:(charlie+AND+derby)",
+     "max_entries": 5,
+     "start": 0    
+    },
+    {
+    "query": "au:(laura+AND+clinton)",
+     "max_entries": 5,
+     "start": 0    
+    },
+    {
+    "query": "au:(lluis+AND+masanes)",
+     "max_entries": 45,
+     "start": 0    
+    },
+    {
     "query": "au:(nadish+AND+(de+AND+silva))",
      "max_entries": 12,
      "start": 0    
